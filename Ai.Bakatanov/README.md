@@ -49,45 +49,6 @@ Once the script is started, you can go to the URL [http://localhost:8501](http:/
 
 This project is released under the MIT License.
 
-## Donation
-<details>
-   <summary>Support project</summary>
 
-`AI Talks` collects donations solely for the purpose of paying for the `Open AI` API.
-This allows you to provide access to communication with AI for all users.
-Support us for joint development and interaction with the intelligence of the future!
-
-**Crypto:**
-
-- Bitcoin (BTC)
-
-```
-1HRDUif7oKDw9XJFXZ14TZZazokf4QH9fb
-```
-
-- USD Tether (USDT TRC20):
-
-```
-TMQ5RiyQ7bv3XjB6Wf6JbPHVrGkhBKtmfA
-```
-
-- Toncoin (TON):
-
-```
-UQDbnx17N2iOmxfQF0k55QScDMB0MHL9rsq-iGB93RMqDhIH
-```
-
-**World:**
-- [Buy Me A Coffee](https://www.buymeacoffee.com/aitalks)
-- [ko-fi](https://ko-fi.com/ai_talks)
-- [PayPal](https://www.paypal.com/paypalme/aitalks)
-
-**Russia:**
-- [Tinkoff](https://www.tinkoff.ru/cf/4Ugsr5kQ1sR)
-- [donationalerts](https://www.donationalerts.com/r/if_ai)
-- [boosty](https://boosty.to/ai-talks/donate)
-- [CloudTips](https://pay.cloudtips.ru/p/eafa15b2)
-
-![](ai_talks/assets/qr/tink.png)
 
 </details>
